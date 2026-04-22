@@ -25,7 +25,7 @@ ipconfig /all
 ## Resolution
 Enabled DHCP in IPv4 settings and renewed the IP configuration
 
-##Outcome
+## Outcome
 1. Internet connectivity restored
 2. DNS resolution verified
 3. Issue fully resolved
